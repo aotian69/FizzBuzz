@@ -1,5 +1,5 @@
 /**
- * Solve the FizzBuzz challenge.
+ * Solve the FizzBuzz challenge. (GIT PULL TASK)
  */
 class FizzBuzz {
 
